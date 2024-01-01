@@ -1,7 +1,7 @@
 body {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: start;
   height: 100vh;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
